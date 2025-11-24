@@ -1,3 +1,7 @@
+### Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=js,vue,git,github,vscode,linux)](https://skillicons.dev)
+
+### My Stats
 <p>
   <img height="180px"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=JianKang-Li&show_icons=true&locale=en&layout=compact"
